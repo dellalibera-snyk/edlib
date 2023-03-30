@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.17.3
 
 MAINTAINER Martin Sosic <sosic.martin@gmail.com>
 
